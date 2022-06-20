@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-  <h1 align="center">I'm <a href="https://github.com/Eduardo79Silva">Abhinav<a><img src="./images/wave.gif" width="60px"/></h1>
+  <h1 align="center">I'm <a href="https://github.com/Eduardo79Silva">eduardo<a><img src="./images/wave.gif" width="60px"/></h1>
 </p>
 <br>
 <h1>About Me! 😎</h1>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Eduardo79Silva?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/Eduardo79Silva?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
   
 <br>
