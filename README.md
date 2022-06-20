@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Eduardo79Silva/Eduardo79Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
   <h1 align="center">I'm <a href="https://github.com/Eduardo79Silva">Eduardo<a><img src="./images/wave.gif" width="60px"/></h1>
@@ -24,21 +7,19 @@ Here are some ideas to get you started:
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Professional Devloper.
-- 🔭: I’m currently working on many small projects.
-- 🌱: I’m currently learning Web Scraping and Node.js. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Java, C#, JavaScript and Python. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Cricket and the Guitar! ⚽🎾🎹
+- 🏫: I'm a CS Student.
+- 🔭: I’m currently working on 2 Major Projects.
+- 🌱: I’m currently learning Cybersecurity. 🧠💻🤖
+- 🤔: I’m looking for help with anything I am currently learning!
+- 💬: Ask me about Game Dev, C# and C++. 📊📈🤖🧠
+- ⚡  Fun fact: I like Anime, NBA and all types of music! 🎌🏀🎵
 
 <br>
 <hr>
 <br>
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Eduardo79Silva?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/Eduardo79Silva?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">&nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/logo=github&logoColor=white"/></a>
 </p>
   
 <br>
