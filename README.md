@@ -19,7 +19,7 @@
 <br>
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
-<p align="center">&nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/logo=github&logoColor=white"/></a>
+<p align="center">&nbsp;&nbsp;&nbsp;  <a href="eduardo4silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/eduardo4silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Eduardo79Silva" target="blank"><img align="center" src="https://img.shields.io/badge/Eduardo-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
   
 <br>
