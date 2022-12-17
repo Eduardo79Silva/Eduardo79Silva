@@ -49,7 +49,7 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=DA_Logistics)](https://github.com/Eduardo79Silva/DA_Logistics)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silvar&repo=ClinicApp)](https://github.com/Eduardo79Silva/ClinicApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=ClinicApp)](https://github.com/Eduardo79Silva/ClinicApp)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=Eduardo79Silva.github.io)](https:/Eduardo79Silva.github.io)
 
