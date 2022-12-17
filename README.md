@@ -8,10 +8,9 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a CS Student.
-- 🔭: I’m currently working on 2 Major Projects.
+- 🔭: I’m currently working on 1 Major Project.
 - 🌱: I’m currently learning Cybersecurity. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning!
-- 💬: Ask me about Game Dev, C# and C++. 📊📈🤖🧠
+- 💬: Ask me about Game Dev, C++ and Cybersecuruty. 📊📈🤖🧠
 - ⚡  Fun fact: I like Anime, NBA and all types of music! 🎌🏀🎵
 
 <br>
