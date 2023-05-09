@@ -9,8 +9,8 @@
 
 - 🏫: I'm a CS Student.
 - 🔭: I’m currently working on 1 Major Project.
-- 🌱: I’m currently learning Cybersecurity. 🧠💻🤖
-- 💬: Ask me about Game Dev, C++ and Cybersecuruty. 📊📈🤖🧠
+- 🌱: I’m currently learning Game Engine Development. 🧠💻🤖
+- 💬: Ask me about Game Dev, C++ and Game Engines. 📊📈🤖🧠
 - ⚡  Fun fact: I like Anime, NBA and all types of music! 🎌🏀🎵
 
 <br>
