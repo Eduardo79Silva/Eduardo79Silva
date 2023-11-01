@@ -7,11 +7,11 @@
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a CS Student.
+- 🏫: I'm a Software Engineer.
 - 🔭: I’m currently working on 1 Major Project.
 - 🌱: I’m currently learning Game Engine Development. 🧠💻🤖
 - 💬: Ask me about Game Dev, C++ and Game Engines. 📊📈🤖🧠
-- ⚡  Fun fact: I like Anime, NBA and all types of music! 🎌🏀🎵
+- ⚡  Fun fact: I like Anime, Formula 1 and all types of music! 🎌🏎🎵
 
 <br>
 <hr>
