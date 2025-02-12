@@ -24,11 +24,9 @@ Welcome to my GitHub! I'm Eduardo Silva, a passionate software engineer and game
 ### **Web & Software Development**
 - Next.js, React, Tailwind CSS, Node.js, PostgreSQL
 
-## 🎮 Current Projects
-- 🐦 **Bird Retrieval Game**: A physics-based game where a bird retrieves eggs and returns them to the nest.
-- ⚽ **Rocket League Clone**: A personal challenge to build a competitive physics-based multiplayer game.
-- 🌍 **Island Warfare**: A game featuring strategic battles between islands using cannons.
-- 🛠 **Custom Game Engine**: Developing a minimalistic, high-performance engine for a future game project.
+## 🔥 Current Projects  
+- 🕵️ **CPTS Certification** – Advancing my cybersecurity knowledge with penetration testing.  
+- 🎮 **New Game Project (Unannounced)** – Currently developing an exciting, undisclosed game.  
 
 ## 🎯 Goals for 2025
 - ✅ Release my current indie game projects.
