@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm Eduardo Silva, a passionate software engineer and game
 - ✅ Continue refining my skills in AI, game development, and graphics programming.
 
 ## 📢 Connect with Me
-- 💼 [Portfolio](https://eduardo79silva.github.io/) *(Under Development)*
+- 💼 [Portfolio](https://eduardo79silva.github.io/)
 - 🎥 [YouTube](https://www.youtube.com/@eduardo-silva-79)
 - 💻 [LinkedIn](https://www.linkedin.com/in/eduardosilva)
 
