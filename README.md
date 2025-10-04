@@ -70,7 +70,7 @@ Applying machine learning and LLM technologies to game development, focusing on 
 <div align="center">
   <a href="https://github.com/Eduardo79Silva/RayTracer" style="text-decoration: none;"><img style="text-decoration: none;" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=RayTracer&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff8c42&text_color=c9d1d9&icon_color=ff8c42" alt="RayTracer"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Eduardo79Silva/Turbo-Soccer" style="text-decoration: none;"><img style="text-decoration: none;" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=Turbo-Soccer&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff8c42&text_color=c9d1d9&icon_color=ff8c42" alt="Game Engine"></a>
+  <a href="https://github.com/Eduardo79Silva/Majin" style="text-decoration: none;"><img style="text-decoration: none;" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo79Silva&repo=Majin&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff8c42&text_color=c9d1d9&icon_color=ff8c42" alt="Game Engine"></a>
 </div>
 
 ### Custom Vulkan Game Engine - (Currently in private)
